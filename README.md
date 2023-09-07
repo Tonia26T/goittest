@@ -1,0 +1,2 @@
+# goittest
+Git practice
